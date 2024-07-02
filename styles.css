@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(145deg, #6a0dad, #9370db);
+    color: #ffffff;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 20%;
+    padding: 20px;
+    background-color: #4b0082;
+    height: 100vh;
+    box-sizing: border-box;
+    border-right: 2px solid #dda0dd;
+}
+
+.sidebar h2 {
+    color: #dda0dd;
+    font-size: 1.2em;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+    color: #e6e6fa;
+    padding: 5px;
+}
+
+.sidebar ul li:hover {
+    color: #dda0dd;
+    background-color: #6a0dad;
+    border-radius: 5px;
+}
+
+.main-content {
+    width: 80%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #2e0854;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #dda0dd;
+}
+
+header p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #e6e6fa;
+}
+
+header button {
+    padding: 10px 20px;
+    background-color: #ba55d3;
+    border: none;
+    color: #ffffff;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+header button:hover {
+    background-color: #dda0dd;
+}
+
+.overview, .album-releases {
+    margin-top: 20px;
+}
+
+.overview h2, .album-releases h2 {
+    color: #dda0dd;
+    margin-bottom: 15px;
+}
+
+.overview ul, .album-releases .albums {
+    list-style: none;
+    padding: 0;
+}
+
+.overview ul li, .albums .album {
+    margin: 10px 0;
+    background-color: #4b0082;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #dda0dd;
+}
+
+.albums {
+    display: flex;
+    gap: 10px;
+}
+
+.album {
+    background-color: #4b0082;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    color: #e6e6fa;
+    border: 1px solid #dda0dd;
+}
+
+.album:hover {
+    background-color: #ba55d3;
+}
