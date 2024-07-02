@@ -18,3 +18,8 @@
 [![GitHub Ishaan Rastogi](https://img.shields.io/badge/IshaanRastogi-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/TridentifyIshaan)
 [![GitHub Jai Tiwari](https://img.shields.io/badge/JaiTiwari-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/JAI0705)
 [![GitHub Kunal Luthra](https://img.shields.io/badge/KunalLuthra-%23FFFFFF.svg?logo=GitHub&logoColor=black)](https://github.com/KunalLuthra05)
+
+![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
