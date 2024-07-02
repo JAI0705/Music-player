@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10)
 
 ### 💫 About Project:
-🎵 Creating a music streaming platform project.
+🎵 Creating a music streaming platform project. <br>
+💜 Theme Color: Violet <br>
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
