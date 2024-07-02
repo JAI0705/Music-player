@@ -2,6 +2,7 @@
 
 ### 💫 About Project:
 🎵 Creating a music streaming platform project.
+💜 Theme Color: Violet
 
 ![alt text](https://github.com/ChaosXYZ/ChaosXYZ/blob/main/divider.png?raw=true)
 
