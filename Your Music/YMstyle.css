@@ -1,0 +1,49 @@
+.main-content {
+  background-color: #2e0854;
+}
+
+.title{
+  text-align: center;
+  color:#dda0dd; 
+  text-transform: uppercase;
+  font-family: "Libre Baskerville", serif;
+
+}
+
+.intro{
+  text-align: center;
+}
+
+div {
+  font-family: 'Libre Baskerville', serif;
+}
+
+img {
+  padding: 5px;
+}
+
+/*Task 1*/
+
+.card {
+  width: 210px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  max-width: 14rem;
+  background-color:violet;
+  border-radius: 5px;
+}
+
+/*Task 2*/
+.card-title {
+  font-size: 15px;
+  text-align: left;
+}    
+
+/*Task 3*/
+.card-text {
+  max-width: 12rem;
+  font-size: 12px;
+  margin-bottom: 10px;
+  text-align: left;
+}
